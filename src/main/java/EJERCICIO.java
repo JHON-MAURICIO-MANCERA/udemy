@@ -6,6 +6,7 @@ import java.util.stream.Stream;
 
 public class EJERCICIO {
 
+
     public static void main(String[] args) {
         int num =150;
         System.out.println(num);
