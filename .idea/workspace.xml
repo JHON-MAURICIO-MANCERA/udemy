@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0897b88a-9607-402d-9881-3053d46173f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0897b88a-9607-402d-9881-3053d46173f4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +35,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\POO\EJEMPLOS\src" />
       <recent name="D:\POO\EJEMPLOS" />
+      <recent name="D:\POO\EJEMPLOS\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -99,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614233631168</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="se agregag el iml">
+      <created>1614235596631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614235596632</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modificacion de todo">
+      <created>1614235653108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614235653108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modificacion de todo">
+      <created>1614235794957</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614235794957</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +126,8 @@
     <MESSAGE value="archivos excluidos" />
     <MESSAGE value="creacion de la clase ejer4cicio" />
     <MESSAGE value="se camio de lugar el ignore para que suba el reposirotio" />
-    <option name="LAST_COMMIT_MESSAGE" value="se camio de lugar el ignore para que suba el reposirotio" />
+    <MESSAGE value="se agregag el iml" />
+    <MESSAGE value="modificacion de todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificacion de todo" />
   </component>
 </project>
