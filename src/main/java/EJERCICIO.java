@@ -10,6 +10,8 @@ public class EJERCICIO {
         int num =150;
         System.out.println(num);
 
+
+
         int numeroDecimal=10;
         System.out.println("numero decimal: "+numeroDecimal);
 
